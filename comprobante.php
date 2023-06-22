@@ -1,5 +1,5 @@
 <?php require 'php/inicioH.php';
-require 'php/scriptComprobante.php';
+require 'php/scriptPdf.php';
 require 'php/finH.php'; ?>
 
   <div class="white darken-1">
